@@ -3,7 +3,7 @@
 以捷運距離、屋齡、便利商店數等變數，探索房價的影響因素，並建立線性回歸模型進行預測。
 
 ## 使用資料
-- 台灣房價資料（來自 Kaggle：[連結](https://www.kaggle.com/datasets/noir1112/taiwan-real-estate-prices-and-features-dataset)）
+- 台灣房價資料（來自 Kaggle：(https://www.kaggle.com/datasets/noir1112/taiwan-real-estate-prices-and-features-dataset)）
 - 欄位包含：屋齡、捷運距離、便利商店數、房價等
 
 ## 技術流程
